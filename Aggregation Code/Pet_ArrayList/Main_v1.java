@@ -1,4 +1,4 @@
-public class Main {
+public class Main_v1 {
     public static void main(String[] args) {
         // Creating a pet
         ArrayList<String> skills = new ArrayList<>();
