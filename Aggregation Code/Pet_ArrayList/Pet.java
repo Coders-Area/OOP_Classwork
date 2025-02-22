@@ -14,6 +14,7 @@ public class Pet {
         this.hs=hs;
         this.sp_skills=s;
     }
+    
     Pet(){
         this(0,0,"Null",new ArrayList<>());
     }
