@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Restaurant {
     public static void occupyTable(ArrayList<Table> tables, int groupSize) {
         for (Table table : tables) {

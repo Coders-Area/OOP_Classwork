@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Pet {
     private int hung_lvl;
     private int happ_lvl;

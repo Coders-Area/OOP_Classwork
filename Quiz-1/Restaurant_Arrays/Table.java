@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Table {
     private final int capacity;
     private int occupiedSeats;

@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 // House class using composition to include Room objects.
 class House {
     private Room[] rooms;

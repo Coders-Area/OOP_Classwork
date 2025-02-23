@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 // House class using composition to include Room objects.
 class House {
     private List<Room> rooms;

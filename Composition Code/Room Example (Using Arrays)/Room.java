@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 // Room class representing a room in a house.
 class Room {
     private int roomNumber;

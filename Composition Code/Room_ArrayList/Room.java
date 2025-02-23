@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 // Room class representing a room in a house.
 class Room {
     private int roomNumber;
