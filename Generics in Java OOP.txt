@@ -1,0 +1,159 @@
+generics in java/oop
+
+gerneric == general
+
+panadol ==> paracetamol (relief in pain)
+nuebrol
+calpol
+
+int
+string
+float
+double
+char
+
+T=type generic
+
+class
+interface
+methods
+vaiables
+
+adv of generics
+
+type safety = only a single type of object in gerenrics
+
+arraylist
+
+compile time error
+
+type casting == if you use generic there is no need of type casting
+
+
+
+generic class
+
+a class is not worked on any fixed data type then what is the type of our class = generic
+all of your class methods, variables are to be generic type
+
+class generic datatype = T =type = object = object has no datatype (int,string,float, double , char)
+
+whenever you want to ake a class generic what are you do?
+
+<class Keyword>  <class name> <generic type>
+
+class myclass <T>{
+
+// variables
+
+private T x; create a variable named 'x' whose datatype is object
+
+myclass( T x1){
+this.x=x1;
+}
+
+
+}
+
+
+
+k233041 Abdul Hadi
+1:57 PM
+Present
+k233012 Umer Ahmed Shaikh
+1:57 PM
+present
+k230034 Syed Azan Shah Taran
+1:57 PM
+Present
+k233027 Muhammad Hassan
+1:57 PM
+Present
+k233025 Naveed Ahmed
+1:57 PM
+present
+k233032 Shah Hunain
+1:57 PM
+Present
+k233017 Uswa Safdar
+1:57 PM
+Present
+k233040 Muhammad Tahseen
+1:57 PM
+Present
+k233011 Jahanzaib Hussain Mirza
+1:57 PM
+Present
+k230049 Rehma Khurram
+1:57 PM
+Present
+k230529 Omer Khalid
+1:57 PM
+Present
+k233015 Ayesha Raza
+1:57 PM
+present
+k233024 Maheen Fatima
+1:57 PM
+present
+k233022 Amna Kazi
+1:57 PM
+present
+k233035 Alisha Najeeb
+1:57 PM
+Present
+k230600 Haya Amir Kazi
+1:57 PM
+present
+k230014 Waniya Meerab
+1:57 PM
+present
+k233036 Muhammad Maaz Khan
+1:57 PM
+present
+k233034 Kashmala Saghar
+1:57 PM
+Present
+k233037 Maira Qazi
+1:57 PM
+present
+k233020 Ghina Durrani
+1:57 PM
+Present
+k233038 Bilal Yousuf
+1:57 PM
+Present
+k233010 Muhammad Ayyan Amir
+1:57 PM
+Present
+k233005 Taha Ali Khan
+1:57 PM
+Present
+k233031 Falah Hilal
+1:57 PM
+present
+k233006 Sahiba Laljee
+1:57 PM
+present
+k233018 Manahil Ayaz
+1:57 PM
+present
+k233003 Muhammad Mudassir
+1:57 PM
+present
+k233026 Muhammad Wadeed Khan
+1:57 PM
+present
+k230042 Muhammad Maaz Sajid
+1:57 PM
+Present
+k233029 Imam Ali Mahdi
+1:57 PM
+present
+k233014 Abdul Jibran
+1:57 PM
+Present
+
+
+
+
