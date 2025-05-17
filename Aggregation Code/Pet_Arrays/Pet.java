@@ -16,12 +16,15 @@ public class Pet {
     }
 
     public void display_details() {
-        System.out.println(this.happ_lvl);
-        System.out.println(this.hs);
-        System.out.println(this.hung_lvl);
+        System.out.println("Hapinesss Level: " + this.happ_lvl);
+        System.out.println("HS: " + this.hs);
+        System.out.println("Hungry Level: " + this.hung_lvl);
+        System.out.println("Pet's Skills:");
         for (String s : sp_skills) {
             System.out.println(s);
         }
+
+        System.out.println();
     }
 
     public void upd_happiness() {

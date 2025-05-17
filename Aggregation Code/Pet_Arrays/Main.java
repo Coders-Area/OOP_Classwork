@@ -11,8 +11,8 @@ public class Main {
         Adopter adopter = new Adopter("John Doe", "1234567890");
 
         // Adopting pets
-        adopter.adopted_pet(pet1);
-        adopter.adopted_pet(pet2);
+        adopter.adopt_pet(pet1);
+        adopter.adopt_pet(pet2);
 
         // Display adopter and pet details
         adopter.display();

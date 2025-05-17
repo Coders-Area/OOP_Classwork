@@ -11,7 +11,7 @@ public class Adopter {
         this.petCount = 0;
     }
 
-    public void adopted_pet(Pet px) {
+    public void adopt_pet(Pet px) {
         if (petCount < pets.length) {
             pets[petCount++] = px;
         } else {
